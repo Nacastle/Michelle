@@ -1,0 +1,13 @@
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.Form1.resources
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.frmRegistro.resources
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.frmPokedex.resources
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.frmPokemon.resources
+c:\users\michelle\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.frmTransferir.resources
